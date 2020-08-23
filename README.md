@@ -16,4 +16,4 @@ In this notebook, we just show the basic techniques to improve a Machine Learnin
 - features selection
 - Stacking method
 
-If you have any questions or suggestions do not hesitate to contact me on [linkedin](www.linkedin.com/in/mahanamana) 
+If you have any questions or suggestions do not hesitate to contact me on [linkedin](http://www.linkedin.com/in/mahanamana) 
