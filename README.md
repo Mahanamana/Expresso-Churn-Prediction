@@ -2,7 +2,7 @@
 DSN Pre-Bootcamp Hackathon: Expresso Churn Prediction Challenge by Data Science Nigeria
 This solution will help Expresso to better serve their customers by understanding which customers are at risk of leaving.
 
-In this notebook, we just show the basic techniques to improve a Machine Learning model. However, more in-depth data analysis will be helpful to get a better result.
+In this notebook, we just show the basic techniques to improve a Machine Learning model. However, more in-depth data analysis will be helpful to get a better result. (LB: 0.2467xxx)
 
 ### process included in the notebook
 - basic Exploratory Data Analysis
